@@ -1,3 +1,3 @@
 # just-tech-news
 
-deployed application: https://dashboard.heroku.com/apps/serene-river-26763 
+deployed application: https://serene-river-26763.herokuapp.com/
